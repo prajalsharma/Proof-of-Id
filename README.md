@@ -1,2 +1,2 @@
-# Proof-of-Identity
-A Digital Identity on Solana
+# Proof-of-Id
+A Digital Id on Solana
